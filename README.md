@@ -30,8 +30,8 @@ Perfect for Raspberry Pi users who want to extend SD card lifespan by managing l
 ### Option 1: Direct Download
 ```bash
 # Download the scripts
-wget https://raw.githubusercontent.com/YOUR_USERNAME/pihole-log-manager/main/pihole-report.sh
-wget https://raw.githubusercontent.com/YOUR_USERNAME/pihole-log-manager/main/pihole-clean.sh
+wget https://raw.githubusercontent.com/AlexPGAO/pihole-log-manager/main/pihole-report.sh
+wget https://raw.githubusercontent.com/AlexPGAO/pihole-log-manager/main/pihole-clean.sh
 
 # Make them executable
 chmod +x pihole-report.sh pihole-clean.sh
@@ -39,7 +39,7 @@ chmod +x pihole-report.sh pihole-clean.sh
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/pihole-log-manager.git
+git clone https://github.com/AlexPGAO/pihole-log-manager.git
 cd pihole-log-manager
 chmod +x *.sh
 ```
